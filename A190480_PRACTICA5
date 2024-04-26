@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xsl-stylesheet type="text/xsl" href="fileC:/Users/Usuario/Documents/XSL"?>
+<book>
+<ciudades id="001">
+<ciudad id="1">
+<nombre>Comitan</nombre>
+<habitantes>10,000</habitantes>
+</ciudad>
+</ciudades>
+</book>
+
+<book  id="002">
+<ciudades>
+<ciudad>
+<nombre>Tuxtla Gutierrez</nombre>
+<habitantes>6,47000</habitantes>
+</ciudad>
+</ciudades>
+</book>
+
+<book id="003">
+<ciudades>
+<ciudad>
+<nombre>CDMX</nombre>
+<habitantes>6,47000</habitantes>
+</ciudad>
+</ciudades>
+</book>
+
